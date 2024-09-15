@@ -19,7 +19,7 @@ Note: It is recommended to install SQL Server Management Studio (SSMS) version 2
 Refer to **adventureworks relational tables** from the following diagram:
 
 
-![adventureworks_tables](./res/00%20-%20DATA_ENG%20INTRO%20-%20AZURE%20INSTALL.png)
+![adventureworks_tables](./res/adventureworks_tables.png)
 
 
 After following the lab instructions:
