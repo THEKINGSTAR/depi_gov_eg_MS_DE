@@ -6,7 +6,7 @@ The purpose of this task is to analyze from a specific view the requested column
 
 The requested view is:
 
-![alt text](/TASK%2001%20-%20TSQL%20Q1/res/T-SQL%20Q1.png)
+![alt text](./TASK%2001%20-%20TSQL%20Q1/res/T-SQL%20Q1.png)
 
 ## Setup
 
