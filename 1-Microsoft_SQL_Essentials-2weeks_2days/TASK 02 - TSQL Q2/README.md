@@ -2,21 +2,21 @@
 
 ## Overview
 
-The purpose of this task is the same as the purpose of [Task 01 - TSQL Q1](/TASK%2001%20-%20TSQL%20Q1/README.md) but this time, the requested view contains more details to gain from other tables
+The purpose of this task is the same as the purpose of [Task 01 - TSQL Q1](./TASK%2001%20-%20TSQL%20Q1/README.md) but this time, the requested view contains more details to gain from other tables
 
 Our objective is to maintain this view without using *JOIN*:
 
 The top view is: 
 
-![alt text](/TASK%2002%20-%20TSQL%20Q2/res/T-SQL_Q2_TOP_VIEW.png)
+![alt text](./TASK%2002%20-%20TSQL%20Q2/res/T-SQL_Q2_TOP_VIEW.png)
 
 Although the bottom view is:
 
-![alt text](/TASK%2002%20-%20TSQL%20Q2/res/T-SQL_Q2_BOTTOM_VIEW.png)
+![alt text](./TASK%2002%20-%20TSQL%20Q2/res/T-SQL_Q2_BOTTOM_VIEW.png)
 
 ## Setup
 
-You can see **Setup** Section in [Task 01/README.md ](/TASK%2001%20-%20TSQL%20Q1/README.md) to setup for this task.
+You can see **Setup** Section in [Task 01/README.md ](./TASK%2001%20-%20TSQL%20Q1/README.md) to setup for this task.
 
 ## Solution & Analysis
 
@@ -53,7 +53,7 @@ In this case, we look up at **SalesLT.Customer** and **SalesLT.SalesOrderDetail*
 
     - By trying several queries to ensure understanding the relational database, here's a diagram of how the tables are related: 
 
-    - For more information, refer to [adventureworks relational tables diagram] in **Visualization** section in [Task 00/README.md](/TASK%2000%20-%20DATA%20ENG%20INTRO%20-%20AZURE%20Data%20Studio%20INSTALL/README.md) 
+    - For more information, refer to [adventureworks relational tables diagram] in **Visualization** section in [Task 00/README.md](./TASK%2000%20-%20DATA%20ENG%20INTRO%20-%20AZURE%20Data%20Studio%20INSTALL/README.md) 
 
     In order to get a relation of tables, it's specified by keys where:
 
